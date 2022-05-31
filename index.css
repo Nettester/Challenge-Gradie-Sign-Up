@@ -1,0 +1,27 @@
+body{
+    background: url("Assets/Background.png") no-repeat center center fixed;
+    width: 100vw;
+    height: 100vh;
+}
+
+.center{
+    margin: auto;
+    width: 50%;
+    display: grid;
+}
+
+.image{
+    background-color: rgb(18, 49, 65);
+    color: white;
+    border-top-left-radius: 2%;
+    border-bottom-left-radius: 2%;
+}
+
+.image p {
+    color: rgb(128, 167, 186);
+}
+
+.img_iPhone{
+    width: 300px;
+
+}
